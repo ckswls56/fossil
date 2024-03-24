@@ -125,3 +125,5 @@ STATIC_ROOT = BASE_DIR.joinpath('static')
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+# Media files
+MEDIA_ROOT = 'ocr/uploads/'  # 이미지 업로드를 위한 실제 경로로 교체

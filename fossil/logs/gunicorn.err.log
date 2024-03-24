@@ -455,3 +455,8 @@ Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is muc
 [2024-03-24 06:39:51 +0000] [3583] [INFO] Handling signal: term
 [2024-03-24 06:39:51 +0000] [3646] [INFO] Worker exiting (pid: 3646)
 [2024-03-24 06:39:52 +0000] [3583] [INFO] Shutting down: Master
+[2024-03-24 07:03:08 +0000] [9] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 07:03:08 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)
+[2024-03-24 07:03:08 +0000] [9] [INFO] Using worker: sync
+[2024-03-24 07:03:08 +0000] [11] [INFO] Booting worker with pid: 11
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
