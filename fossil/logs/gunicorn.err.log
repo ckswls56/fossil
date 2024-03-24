@@ -1,0 +1,454 @@
+[2024-03-24 05:45:25 +0000] [9] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:25 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)
+[2024-03-24 05:45:25 +0000] [9] [INFO] Using worker: sync
+[2024-03-24 05:45:25 +0000] [11] [INFO] Booting worker with pid: 11
+[2024-03-24 05:45:25 +0000] [11] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:25 +0000] [11] [INFO] Worker exiting (pid: 11)
+[2024-03-24 05:45:25 +0000] [9] [ERROR] Worker (pid:11) exited with code 3
+[2024-03-24 05:45:25 +0000] [9] [ERROR] Shutting down: Master
+[2024-03-24 05:45:25 +0000] [9] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:27 +0000] [16] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:27 +0000] [16] [INFO] Listening at: http://0.0.0.0:8000 (16)
+[2024-03-24 05:45:27 +0000] [16] [INFO] Using worker: sync
+[2024-03-24 05:45:27 +0000] [18] [INFO] Booting worker with pid: 18
+[2024-03-24 05:45:27 +0000] [18] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:27 +0000] [18] [INFO] Worker exiting (pid: 18)
+[2024-03-24 05:45:27 +0000] [16] [ERROR] Worker (pid:18) exited with code 3
+[2024-03-24 05:45:27 +0000] [16] [ERROR] Shutting down: Master
+[2024-03-24 05:45:27 +0000] [16] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:29 +0000] [19] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:29 +0000] [19] [INFO] Listening at: http://0.0.0.0:8000 (19)
+[2024-03-24 05:45:29 +0000] [19] [INFO] Using worker: sync
+[2024-03-24 05:45:29 +0000] [21] [INFO] Booting worker with pid: 21
+[2024-03-24 05:45:29 +0000] [21] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:29 +0000] [21] [INFO] Worker exiting (pid: 21)
+[2024-03-24 05:45:29 +0000] [19] [ERROR] Worker (pid:21) exited with code 3
+[2024-03-24 05:45:29 +0000] [19] [ERROR] Shutting down: Master
+[2024-03-24 05:45:29 +0000] [19] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:32 +0000] [22] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:32 +0000] [22] [INFO] Listening at: http://0.0.0.0:8000 (22)
+[2024-03-24 05:45:32 +0000] [22] [INFO] Using worker: sync
+[2024-03-24 05:45:32 +0000] [24] [INFO] Booting worker with pid: 24
+[2024-03-24 05:45:32 +0000] [24] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:32 +0000] [24] [INFO] Worker exiting (pid: 24)
+[2024-03-24 05:45:32 +0000] [22] [ERROR] Worker (pid:24) exited with code 3
+[2024-03-24 05:45:32 +0000] [22] [ERROR] Shutting down: Master
+[2024-03-24 05:45:32 +0000] [22] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:44 +0000] [25] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:44 +0000] [25] [INFO] Listening at: http://0.0.0.0:8000 (25)
+[2024-03-24 05:45:44 +0000] [25] [INFO] Using worker: sync
+[2024-03-24 05:45:44 +0000] [27] [INFO] Booting worker with pid: 27
+[2024-03-24 05:45:44 +0000] [27] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:44 +0000] [27] [INFO] Worker exiting (pid: 27)
+[2024-03-24 05:45:44 +0000] [25] [ERROR] Worker (pid:27) exited with code 3
+[2024-03-24 05:45:44 +0000] [25] [ERROR] Shutting down: Master
+[2024-03-24 05:45:44 +0000] [25] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:45 +0000] [28] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:45 +0000] [28] [INFO] Listening at: http://0.0.0.0:8000 (28)
+[2024-03-24 05:45:45 +0000] [28] [INFO] Using worker: sync
+[2024-03-24 05:45:45 +0000] [30] [INFO] Booting worker with pid: 30
+[2024-03-24 05:45:45 +0000] [30] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:45 +0000] [30] [INFO] Worker exiting (pid: 30)
+[2024-03-24 05:45:45 +0000] [28] [ERROR] Worker (pid:30) exited with code 3
+[2024-03-24 05:45:45 +0000] [28] [ERROR] Shutting down: Master
+[2024-03-24 05:45:45 +0000] [28] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:47 +0000] [31] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:47 +0000] [31] [INFO] Listening at: http://0.0.0.0:8000 (31)
+[2024-03-24 05:45:47 +0000] [31] [INFO] Using worker: sync
+[2024-03-24 05:45:47 +0000] [33] [INFO] Booting worker with pid: 33
+[2024-03-24 05:45:47 +0000] [33] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:47 +0000] [33] [INFO] Worker exiting (pid: 33)
+[2024-03-24 05:45:47 +0000] [31] [ERROR] Worker (pid:33) exited with code 3
+[2024-03-24 05:45:47 +0000] [31] [ERROR] Shutting down: Master
+[2024-03-24 05:45:47 +0000] [31] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:45:50 +0000] [34] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:45:50 +0000] [34] [INFO] Listening at: http://0.0.0.0:8000 (34)
+[2024-03-24 05:45:50 +0000] [34] [INFO] Using worker: sync
+[2024-03-24 05:45:50 +0000] [36] [INFO] Booting worker with pid: 36
+[2024-03-24 05:45:50 +0000] [36] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'toyproject'
+[2024-03-24 05:45:50 +0000] [36] [INFO] Worker exiting (pid: 36)
+[2024-03-24 05:45:50 +0000] [34] [ERROR] Worker (pid:36) exited with code 3
+[2024-03-24 05:45:50 +0000] [34] [ERROR] Shutting down: Master
+[2024-03-24 05:45:50 +0000] [34] [ERROR] Reason: Worker failed to boot.
+[2024-03-24 05:46:59 +0000] [9] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:46:59 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)
+[2024-03-24 05:46:59 +0000] [9] [INFO] Using worker: sync
+[2024-03-24 05:46:59 +0000] [11] [INFO] Booting worker with pid: 11
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+[2024-03-24 05:48:52 +0000] [9] [INFO] Handling signal: term
+[2024-03-24 05:48:52 +0000] [11] [INFO] Worker exiting (pid: 11)
+[2024-03-24 05:48:52 +0000] [9] [INFO] Shutting down: Master
+[2024-03-24 05:48:59 +0000] [9] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:48:59 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)
+[2024-03-24 05:48:59 +0000] [9] [INFO] Using worker: sync
+[2024-03-24 05:48:59 +0000] [11] [INFO] Booting worker with pid: 11
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+[2024-03-24 05:56:24 +0000] [9] [INFO] Handling signal: term
+[2024-03-24 05:56:24 +0000] [11] [INFO] Worker exiting (pid: 11)
+[2024-03-24 05:56:25 +0000] [9] [INFO] Shutting down: Master
+[2024-03-24 05:56:26 +0000] [33] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 05:56:26 +0000] [33] [INFO] Listening at: http://0.0.0.0:8000 (33)
+[2024-03-24 05:56:26 +0000] [33] [INFO] Using worker: sync
+[2024-03-24 05:56:26 +0000] [35] [INFO] Booting worker with pid: 35
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+[2024-03-24 05:57:01 +0000] [33] [CRITICAL] WORKER TIMEOUT (pid:35)
+[2024-03-24 05:57:01 +0000] [35] [INFO] Worker exiting (pid: 35)
+[2024-03-24 05:57:01 +0000] [33] [ERROR] Worker (pid:35) exited with code 1
+[2024-03-24 05:57:01 +0000] [33] [ERROR] Worker (pid:35) exited with code 1.
+[2024-03-24 05:57:01 +0000] [36] [INFO] Booting worker with pid: 36
+[2024-03-24 05:57:32 +0000] [33] [CRITICAL] WORKER TIMEOUT (pid:36)
+[2024-03-24 05:57:32 +0000] [36] [INFO] Worker exiting (pid: 36)
+[2024-03-24 05:57:32 +0000] [33] [ERROR] Worker (pid:36) exited with code 1
+[2024-03-24 05:57:32 +0000] [33] [ERROR] Worker (pid:36) exited with code 1.
+[2024-03-24 05:57:32 +0000] [37] [INFO] Booting worker with pid: 37
+[2024-03-24 06:04:49 +0000] [33] [INFO] Handling signal: term
+[2024-03-24 06:04:49 +0000] [37] [INFO] Worker exiting (pid: 37)
+[2024-03-24 06:04:49 +0000] [33] [INFO] Shutting down: Master
+[2024-03-24 06:04:57 +0000] [9] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 06:04:57 +0000] [9] [INFO] Listening at: http://0.0.0.0:8000 (9)
+[2024-03-24 06:04:57 +0000] [9] [INFO] Using worker: sync
+[2024-03-24 06:04:57 +0000] [11] [INFO] Booting worker with pid: 11
+[2024-03-24 06:15:38 +0000] [9] [INFO] Handling signal: term
+[2024-03-24 06:15:38 +0000] [11] [INFO] Worker exiting (pid: 11)
+[2024-03-24 06:15:38 +0000] [9] [INFO] Shutting down: Master
+[2024-03-24 06:30:50 +0000] [3583] [INFO] Starting gunicorn 21.2.0
+[2024-03-24 06:30:50 +0000] [3583] [INFO] Listening at: http://0.0.0.0:8000 (3583)
+[2024-03-24 06:30:50 +0000] [3583] [INFO] Using worker: sync
+[2024-03-24 06:30:50 +0000] [3585] [INFO] Booting worker with pid: 3585
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2024-03-24 06:31:25 +0000] [3583] [CRITICAL] WORKER TIMEOUT (pid:3585)
+[2024-03-24 06:31:25 +0000] [3585] [INFO] Worker exiting (pid: 3585)
+[2024-03-24 06:31:25 +0000] [3583] [ERROR] Worker (pid:3585) exited with code 1
+[2024-03-24 06:31:25 +0000] [3583] [ERROR] Worker (pid:3585) exited with code 1.
+[2024-03-24 06:31:25 +0000] [3646] [INFO] Booting worker with pid: 3646
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 31, in post
+    result = image_to_text(file_path, verbose=False)  # 디버깅을 위해 verbose=True로 설정할 수 있습니다.
+  File "/app/ocr/functions/image_to_text.py", line 68, in image_to_text
+    for line in lines:
+TypeError: 'NoneType' object is not iterable
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.

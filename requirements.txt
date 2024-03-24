@@ -1,0 +1,11 @@
+Django
+djangorestframework
+psycopg2
+gunicorn
+supervisor
+opencv-python
+imutils
+easyocr
+fuzzywuzzy
+matplotlib
+python-Levenshtein

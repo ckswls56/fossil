@@ -1,0 +1,113 @@
+2024-03-24 05:45:24,111 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-03-24 05:45:24,127 INFO supervisord started with pid 1
+2024-03-24 05:45:25,133 INFO spawned: 'django' with pid 8
+2024-03-24 05:45:25,137 INFO spawned: 'gunicorn' with pid 9
+2024-03-24 05:45:25,310 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:26,957 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:45:26,960 INFO spawned: 'gunicorn' with pid 16
+2024-03-24 05:45:27,089 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:29,094 INFO spawned: 'gunicorn' with pid 19
+2024-03-24 05:45:29,229 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:32,236 INFO spawned: 'gunicorn' with pid 22
+2024-03-24 05:45:32,373 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:33,375 INFO gave up: gunicorn entered FATAL state, too many start retries too quickly
+2024-03-24 05:45:43,912 INFO spawned: 'gunicorn' with pid 25
+2024-03-24 05:45:44,048 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:45,051 INFO spawned: 'gunicorn' with pid 28
+2024-03-24 05:45:45,176 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:46,185 ERRO 172.30.0.1:37722 - - [24/Mar/2024:05:45:46 +0000] "GET /?message=ERROR%3A%20Process%20gunicorn%3A%20spawn%20error HTTP/1.1" 200 3892
+2024-03-24 05:45:47,190 INFO spawned: 'gunicorn' with pid 31
+2024-03-24 05:45:47,319 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:50,325 INFO spawned: 'gunicorn' with pid 34
+2024-03-24 05:45:50,456 WARN exited: gunicorn (exit status 3; not expected)
+2024-03-24 05:45:51,459 INFO gave up: gunicorn entered FATAL state, too many start retries too quickly
+2024-03-24 05:46:01,177 INFO waiting for django to stop
+2024-03-24 05:46:01,245 INFO stopped: django (exit status 0)
+2024-03-24 05:46:02,253 INFO spawned: 'django' with pid 37
+2024-03-24 05:46:04,070 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:46:36,116 WARN received SIGTERM indicating exit request
+2024-03-24 05:46:36,117 INFO waiting for django to die
+2024-03-24 05:46:37,177 INFO stopped: django (exit status 0)
+2024-03-24 05:46:58,743 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-03-24 05:46:58,759 INFO supervisord started with pid 1
+2024-03-24 05:46:59,765 INFO spawned: 'django' with pid 8
+2024-03-24 05:46:59,768 INFO spawned: 'gunicorn' with pid 9
+2024-03-24 05:47:01,666 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:47:01,666 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:48:52,472 WARN received SIGTERM indicating exit request
+2024-03-24 05:48:52,473 INFO waiting for django, gunicorn to die
+2024-03-24 05:48:52,586 INFO stopped: gunicorn (exit status 0)
+2024-03-24 05:48:52,641 INFO stopped: django (exit status 0)
+2024-03-24 05:48:58,833 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-03-24 05:48:58,845 INFO supervisord started with pid 1
+2024-03-24 05:48:59,851 INFO spawned: 'django' with pid 8
+2024-03-24 05:48:59,853 INFO spawned: 'gunicorn' with pid 9
+2024-03-24 05:49:01,748 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:49:01,748 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 05:56:24,915 INFO waiting for gunicorn to stop
+2024-03-24 05:56:25,134 INFO stopped: gunicorn (exit status 0)
+2024-03-24 05:56:26,139 INFO spawned: 'gunicorn' with pid 33
+2024-03-24 05:56:27,242 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:04:49,534 WARN received SIGTERM indicating exit request
+2024-03-24 06:04:49,534 INFO waiting for django, gunicorn to die
+2024-03-24 06:04:49,647 INFO stopped: gunicorn (exit status 0)
+2024-03-24 06:04:49,704 INFO stopped: django (exit status 0)
+2024-03-24 06:04:56,266 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-03-24 06:04:56,279 INFO supervisord started with pid 1
+2024-03-24 06:04:57,286 INFO spawned: 'django' with pid 8
+2024-03-24 06:04:57,291 INFO spawned: 'gunicorn' with pid 9
+2024-03-24 06:04:59,255 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:04:59,256 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:11:10,470 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:11,476 INFO spawned: 'django' with pid 104
+2024-03-24 06:11:12,420 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:13,426 INFO spawned: 'django' with pid 120
+2024-03-24 06:11:14,331 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:16,337 INFO spawned: 'django' with pid 136
+2024-03-24 06:11:17,335 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:11:17,435 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:18,444 INFO spawned: 'django' with pid 152
+2024-03-24 06:11:19,464 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:11:19,583 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:20,589 INFO spawned: 'django' with pid 168
+2024-03-24 06:11:21,559 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:22,565 INFO spawned: 'django' with pid 184
+2024-03-24 06:11:23,548 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:25,556 INFO spawned: 'django' with pid 200
+2024-03-24 06:11:26,494 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:29,502 INFO spawned: 'django' with pid 216
+2024-03-24 06:11:30,442 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:11:31,444 INFO gave up: django entered FATAL state, too many start retries too quickly
+2024-03-24 06:15:38,357 INFO waiting for gunicorn to stop
+2024-03-24 06:15:38,470 INFO stopped: gunicorn (exit status 0)
+2024-03-24 06:15:39,391 INFO spawned: 'django' with pid 271
+2024-03-24 06:15:40,308 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:41,314 INFO spawned: 'django' with pid 287
+2024-03-24 06:15:42,334 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:15:42,334 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:43,340 INFO spawned: 'django' with pid 303
+2024-03-24 06:15:44,327 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:45,334 INFO spawned: 'django' with pid 319
+2024-03-24 06:15:46,405 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:15:46,406 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:47,413 INFO spawned: 'django' with pid 335
+2024-03-24 06:15:48,408 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:15:48,505 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:49,512 INFO spawned: 'django' with pid 351
+2024-03-24 06:15:50,500 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:51,506 INFO spawned: 'django' with pid 367
+2024-03-24 06:15:52,519 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:15:52,519 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:53,525 INFO spawned: 'django' with pid 383
+2024-03-24 06:15:54,441 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:55,448 INFO spawned: 'django' with pid 399
+2024-03-24 06:15:56,355 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:15:58,442 INFO spawned: 'django' with pid 415
+2024-03-24 06:15:59,356 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:16:02,365 INFO spawned: 'django' with pid 431
+2024-03-24 06:16:03,329 WARN exited: django (exit status 245; not expected)
+2024-03-24 06:16:04,331 INFO gave up: django entered FATAL state, too many start retries too quickly
+2024-03-24 06:30:50,823 INFO spawned: 'gunicorn' with pid 3583
+2024-03-24 06:30:51,282 INFO spawned: 'django' with pid 3586
+2024-03-24 06:30:51,926 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:30:52,928 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
