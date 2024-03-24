@@ -111,3 +111,7 @@
 2024-03-24 06:30:51,282 INFO spawned: 'django' with pid 3586
 2024-03-24 06:30:51,926 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2024-03-24 06:30:52,928 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-03-24 06:39:51,986 WARN received SIGTERM indicating exit request
+2024-03-24 06:39:51,986 INFO waiting for django, gunicorn to die
+2024-03-24 06:39:52,599 INFO stopped: gunicorn (exit status 0)
+2024-03-24 06:39:52,673 INFO stopped: django (exit status 0)

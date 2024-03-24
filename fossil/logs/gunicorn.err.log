@@ -452,3 +452,6 @@ Traceback (most recent call last):
     for line in lines:
 TypeError: 'NoneType' object is not iterable
 Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-03-24 06:39:51 +0000] [3583] [INFO] Handling signal: term
+[2024-03-24 06:39:51 +0000] [3646] [INFO] Worker exiting (pid: 3646)
+[2024-03-24 06:39:52 +0000] [3583] [INFO] Shutting down: Master
