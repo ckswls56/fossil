@@ -9,3 +9,4 @@ easyocr
 fuzzywuzzy
 matplotlib
 python-Levenshtein
+numpy
