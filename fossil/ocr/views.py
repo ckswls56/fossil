@@ -8,6 +8,7 @@ from rest_framework.decorators import permission_classes
 import os
 from django.conf import settings
 from .functions.image_to_text import image_to_text
+from .functions.after_processing import after_processing
 # Create your views here.
 
 @permission_classes([AllowAny])
@@ -29,5 +30,5 @@ class OCRView(APIView):
 
         # OCR 수행
         result = image_to_text(file_path, verbose=False)  # 디버깅을 위해 verbose=True로 설정할 수 있습니다.
-
-        return Response({"result": result}, status=status.HTTP_200_OK)
+        after_process = after_processing(result)
+        return Response({"result": result, "after": after_process}, status=status.HTTP_200_OK)
