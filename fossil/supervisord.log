@@ -417,3 +417,80 @@
 2024-06-02 16:14:56,204 INFO stopped: gunicorn (exit status 0)
 2024-06-02 16:14:57,210 INFO spawned: 'gunicorn' with pid 7863
 2024-06-02 16:14:58,328 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:41:15,644 INFO waiting for gunicorn to stop
+2024-06-02 16:41:17,483 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:41:18,489 INFO spawned: 'gunicorn' with pid 8134
+2024-06-02 16:41:19,608 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:42:48,210 WARN received SIGTERM indicating exit request
+2024-06-02 16:42:48,210 INFO waiting for gunicorn to die
+2024-06-02 16:42:49,736 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:42:50,577 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-02 16:42:50,594 INFO supervisord started with pid 1
+2024-06-02 16:42:51,596 INFO spawnerr: command at '/app/manage.py' is not executable
+2024-06-02 16:42:51,600 INFO spawned: 'gunicorn' with pid 8
+2024-06-02 16:42:52,712 INFO spawnerr: command at '/app/manage.py' is not executable
+2024-06-02 16:42:52,712 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:42:54,716 INFO spawnerr: command at '/app/manage.py' is not executable
+2024-06-02 16:42:57,720 INFO spawnerr: command at '/app/manage.py' is not executable
+2024-06-02 16:42:57,721 INFO gave up: django entered FATAL state, too many start retries too quickly
+2024-06-02 16:49:19,504 INFO waiting for gunicorn to stop
+2024-06-02 16:49:20,929 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:49:21,935 INFO spawned: 'gunicorn' with pid 279
+2024-06-02 16:49:23,054 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:50:50,505 INFO waiting for gunicorn to stop
+2024-06-02 16:50:52,128 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:50:53,134 INFO spawned: 'gunicorn' with pid 550
+2024-06-02 16:50:54,244 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:52:26,743 INFO waiting for gunicorn to stop
+2024-06-02 16:52:28,478 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:52:29,485 INFO spawned: 'gunicorn' with pid 821
+2024-06-02 16:52:30,595 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:54:21,030 INFO waiting for gunicorn to stop
+2024-06-02 16:54:22,556 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:54:23,562 INFO spawned: 'gunicorn' with pid 1092
+2024-06-02 16:54:24,684 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:55:03,707 INFO waiting for gunicorn to stop
+2024-06-02 16:55:05,236 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:55:06,243 INFO spawned: 'gunicorn' with pid 1363
+2024-06-02 16:55:07,371 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:57:16,975 INFO waiting for gunicorn to stop
+2024-06-02 16:57:18,296 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:57:19,301 INFO spawned: 'gunicorn' with pid 1634
+2024-06-02 16:57:20,436 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 16:58:20,218 INFO waiting for gunicorn to stop
+2024-06-02 16:58:22,225 INFO waiting for gunicorn to stop
+2024-06-02 16:58:22,265 INFO stopped: gunicorn (exit status 0)
+2024-06-02 16:58:23,272 INFO spawned: 'gunicorn' with pid 1905
+2024-06-02 16:58:24,388 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:01:13,413 INFO waiting for gunicorn to stop
+2024-06-02 17:01:14,750 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:01:15,757 INFO spawned: 'gunicorn' with pid 2176
+2024-06-02 17:01:16,864 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:02:37,417 INFO waiting for gunicorn to stop
+2024-06-02 17:02:39,339 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:02:40,344 INFO spawned: 'gunicorn' with pid 2447
+2024-06-02 17:02:41,487 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:06:51,036 INFO waiting for gunicorn to stop
+2024-06-02 17:06:52,558 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:06:53,563 INFO spawned: 'gunicorn' with pid 2718
+2024-06-02 17:06:54,688 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:09:22,110 INFO waiting for gunicorn to stop
+2024-06-02 17:09:23,738 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:09:24,745 INFO spawned: 'gunicorn' with pid 2989
+2024-06-02 17:09:25,864 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:11:00,511 INFO waiting for gunicorn to stop
+2024-06-02 17:11:02,033 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:11:03,039 INFO spawned: 'gunicorn' with pid 3260
+2024-06-02 17:11:04,153 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:12:59,022 INFO waiting for gunicorn to stop
+2024-06-02 17:13:00,859 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:13:00,864 INFO spawned: 'gunicorn' with pid 3531
+2024-06-02 17:13:01,971 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:14:22,294 INFO waiting for gunicorn to stop
+2024-06-02 17:14:23,828 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:14:24,835 INFO spawned: 'gunicorn' with pid 3802
+2024-06-02 17:14:25,951 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-02 17:15:32,398 INFO waiting for gunicorn to stop
+2024-06-02 17:15:33,927 INFO stopped: gunicorn (exit status 0)
+2024-06-02 17:15:34,934 INFO spawned: 'gunicorn' with pid 4073
+2024-06-02 17:15:36,043 INFO success: gunicorn entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
