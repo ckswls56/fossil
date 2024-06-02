@@ -49,6 +49,8 @@ def image_to_text(path: str, verbose: bool = False):
         show_image('CLAHE', img_clahe)
         show_image('equalizeHist', img_eq)
     
+
+    
     # 4. 회전 변환 시작
     
     # Canny 엣지 검출
@@ -115,6 +117,7 @@ def image_to_text(path: str, verbose: bool = False):
         print("hist.sum():", hist.sum(), "img.shape:",rotated_image.shape)
         plt.show()
         
+        
     #5 Histogram Normalize (히스토그램 정규화)
     
     img_norm2 = cv2.normalize(rotated_image, None, 0, 255, cv2.NORM_MINMAX) #이거 하나로 바로 정규화
@@ -135,120 +138,10 @@ def image_to_text(path: str, verbose: bool = False):
         #     plt.plot(v)
         # plt.show()
 
-    
-
-    # 3. Gray Scale Grouping
-    #gray: np.ndarray = cv2.cvtColor(img_norm2, cv2.COLOR_BGR2GRAY)
-    gray = img_norm2
-    if verbose:
-        show_image("Gray", gray)
-
-    # 커널 크기 지정
-    ksize = W // 768
-    ksize = ksize if ksize % 2 == 1 else ksize + 1 # 홀수면 짝수로 만들어줌
-    ksize = 3 if ksize < 3 else ksize # 최소 3
-
-    if verbose:
-        print("ksize: ", ksize)
-
-    ellipse_kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (ksize, ksize)) # 타원형 커널 생성
-    grad = cv2.morphologyEx(gray, cv2.MORPH_GRADIENT, ellipse_kernel) # 이미지 엣지 검출
-    _, bw = cv2.threshold(grad, 0.0, 255.0, cv2.THRESH_BINARY | cv2.THRESH_OTSU) # 이미지를 이진화 해 흑백 처리
-
-    rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (ksize * 4, 1)) #직사각형 형태 커널 생성
-    closed = cv2.morphologyEx(bw, cv2.MORPH_CLOSE, rect_kernel) # 모폴로지 닫힘 연산 수행
-    # 타원형 + 직사각형 두번 해서 다양한 특징을 찾는다고 함(아마도..?)
-    
-    if verbose:
-        show_image("Closed", closed)
         
-    
-
-    # 4. Text Edge Detection
-    # 윤곽선 찾기
-    contours = cv2.findContours(closed.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
-    contours = imutils.grab_contours(contours) #버전 차이 보완
-    contours = sort_contours(contours, method="top-to-bottom")[0] # 윤곽선 정렬
-
-    roi_list = []
-    roi_title_list = []
-
-    grouped: np.ndarray = img_norm2.copy()
-
-    bsize = W // 96
-    bsize = bsize if bsize % 2 == 1 else bsize + 1
-    bsize = 11 if bsize < 11 else bsize
-
-    w_crit = W // 256
-    h_crit = H // 108
-    gap = w_crit * 4
-
-    if verbose:
-        print("block size: ", bsize)
-        print("w_crit: ", w_crit)
-        print("h_crit: ", h_crit)
-        print("gap: ", gap)
-
-    for c in contours: # 해당 윤곽선을 감싸는 가장 작은 사각형 정보 들고옴
-        (x, y, w, h) = cv2.boundingRect(c)
-
-        # Calculate the maximum allowed box size based on image height(최대 허용 너비+ 최대 허용 높이 계산)
-        max_allowed_width = img_norm2.shape[1] * 0.2
-        max_allowed_height = img_norm2.shape[0] * 0.05
-        #print(max_allowed_width, max_allowed_height)
-        
-        # 크기가 적당할 때만 검사
-        if w_crit < w and h_crit < h < h_crit * 16:
-            # Skip if the bounding box is too large
-            if w > max_allowed_width or h > max_allowed_height:
-                continue
-            # 유요한 윤곽선이면 추출
-            color = (0, 0, 255)
-            roi = gray[y: (y + h), x: (x + w)]
-            
-            # 임계값 처리
-            roi = cv2.adaptiveThreshold(roi, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, bsize, 10)
-            roi_list.append(roi) # 배열에 저장
-            roi_title_list.append("Roi_{}".format(len(roi_list)))
-        else:
-            color = (255, 0, 0)
-            
-        # 유요한 윤곽선 주변에 사각형 보여줌(text 주변에 네모 보여주는거)
-        cv2.rectangle(grouped, (x, y), (x + w, y + h), color=color, thickness=3)
-        cv2.putText(grouped, "(" + str(w) + ", " + str(h) + ")", (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, fontScale=1, color=color, thickness=3)
-
-    if verbose:
-        show_image("Grouped", grouped)
-
-    # 5. OCR
-    merged = np.array([])
-    result = []
-    last = len(roi_list) - 1
     reader = easyocr.Reader(['ko','en'], gpu=True)
-
-    for idx, roi in enumerate(roi_list): # 나눴던 이미지 다시 합침
-        merged = marge_images(merged, roi, gap)
-
-        if idx % 15 == 14 or idx == last:
-            # 이미지에 여백 넣어서 틀어진거 맞춤
-            merged = cv2.copyMakeBorder(merged, top=gap, bottom=gap, left=gap, right=gap, borderType=cv2.BORDER_CONSTANT,
-                                        value=(255, 255, 255))
-
-            if verbose:
-                show_image("Merged", merged)
-
-            #result.append(pytesseract.image_to_string(merged, config="--psm 4 --oem 1 -l kor"))
-            # reader.readtext로 읽은 결과
-            readtext_results = reader.readtext(merged)
-            if len(readtext_results) > 0:  # 인식된 텍스트가 있는 경우에만 처리
-                for readtext in readtext_results:
-                    # result는 (text, bbox, prob) 형식의 튜플
-                    text = readtext[1]  # 읽은 텍스트
-                    result.append(text) # 읽은 텍스트들 저장
-                
-            merged = np.array([])
-
-    words = "".join(result).splitlines() # 줄 바꿈 기준으로 나눔
-    words = [word for word in words if word != ""]
+    readtext_results = reader.readtext(rotated_image)
+    text_list = [text for (_, text, _) in readtext_results]
     
-    return result
+    
+    return text_list

@@ -3425,3 +3425,2587 @@ Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is muc
 [2024-05-21 14:10:00 +0000] [314] [INFO] Handling signal: term
 [2024-05-21 14:10:00 +0000] [316] [INFO] Worker exiting (pid: 316)
 [2024-05-21 14:10:00 +0000] [314] [INFO] Shutting down: Master
+[2024-05-22 05:54:44 +0000] [8] [INFO] Starting gunicorn 22.0.0
+[2024-05-22 05:54:44 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2024-05-22 05:54:44 +0000] [8] [INFO] Using worker: sync
+[2024-05-22 05:54:44 +0000] [10] [INFO] Booting worker with pid: 10
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-22 05:58:22 +0000] [8] [INFO] Handling signal: term
+[2024-05-22 05:58:22 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2024-05-22 05:58:24 +0000] [8] [INFO] Shutting down: Master
+[2024-05-23 04:30:58 +0000] [8] [INFO] Starting gunicorn 22.0.0
+[2024-05-23 04:30:58 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2024-05-23 04:30:58 +0000] [8] [INFO] Using worker: sync
+[2024-05-23 04:30:58 +0000] [10] [INFO] Booting worker with pid: 10
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-23 04:37:14 +0000] [8] [INFO] Handling signal: term
+[2024-05-23 04:37:14 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2024-05-23 04:37:16 +0000] [8] [INFO] Shutting down: Master
+[2024-05-23 04:37:17 +0000] [282] [INFO] Starting gunicorn 22.0.0
+[2024-05-23 04:37:17 +0000] [282] [INFO] Listening at: http://0.0.0.0:8000 (282)
+[2024-05-23 04:37:17 +0000] [282] [INFO] Using worker: sync
+[2024-05-23 04:37:17 +0000] [284] [INFO] Booting worker with pid: 284
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-23 04:39:32 +0000] [282] [INFO] Handling signal: term
+[2024-05-23 04:39:32 +0000] [284] [INFO] Worker exiting (pid: 284)
+[2024-05-23 04:39:33 +0000] [282] [INFO] Shutting down: Master
+[2024-05-23 04:39:34 +0000] [553] [INFO] Starting gunicorn 22.0.0
+[2024-05-23 04:39:34 +0000] [553] [INFO] Listening at: http://0.0.0.0:8000 (553)
+[2024-05-23 04:39:34 +0000] [553] [INFO] Using worker: sync
+[2024-05-23 04:39:34 +0000] [555] [INFO] Booting worker with pid: 555
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-23 05:00:25 +0000] [553] [INFO] Handling signal: term
+[2024-05-23 05:00:25 +0000] [555] [INFO] Worker exiting (pid: 555)
+[2024-05-23 05:00:27 +0000] [553] [INFO] Shutting down: Master
+[2024-05-23 05:00:28 +0000] [824] [INFO] Starting gunicorn 22.0.0
+[2024-05-23 05:00:28 +0000] [824] [INFO] Listening at: http://0.0.0.0:8000 (824)
+[2024-05-23 05:00:28 +0000] [824] [INFO] Using worker: sync
+[2024-05-23 05:00:28 +0000] [826] [INFO] Booting worker with pid: 826
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-23 05:00:47 +0000] [824] [INFO] Handling signal: term
+[2024-05-23 05:00:47 +0000] [826] [INFO] Worker exiting (pid: 826)
+[2024-05-23 05:00:48 +0000] [824] [INFO] Shutting down: Master
+[2024-05-23 05:00:49 +0000] [1095] [INFO] Starting gunicorn 22.0.0
+[2024-05-23 05:00:49 +0000] [1095] [INFO] Listening at: http://0.0.0.0:8000 (1095)
+[2024-05-23 05:00:49 +0000] [1095] [INFO] Using worker: sync
+[2024-05-23 05:00:49 +0000] [1097] [INFO] Booting worker with pid: 1097
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:27:07 +0000] [1095] [INFO] Handling signal: term
+[2024-05-30 04:27:07 +0000] [1097] [INFO] Worker exiting (pid: 1097)
+[2024-05-30 04:27:09 +0000] [1095] [INFO] Shutting down: Master
+[2024-05-30 04:27:10 +0000] [1366] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:27:10 +0000] [1366] [INFO] Listening at: http://0.0.0.0:8000 (1366)
+[2024-05-30 04:27:10 +0000] [1366] [INFO] Using worker: sync
+[2024-05-30 04:27:10 +0000] [1368] [INFO] Booting worker with pid: 1368
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:28:10 +0000] [1366] [INFO] Handling signal: term
+[2024-05-30 04:28:10 +0000] [1368] [INFO] Worker exiting (pid: 1368)
+[2024-05-30 04:28:12 +0000] [1366] [INFO] Shutting down: Master
+[2024-05-30 04:28:13 +0000] [1637] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:28:13 +0000] [1637] [INFO] Listening at: http://0.0.0.0:8000 (1637)
+[2024-05-30 04:28:13 +0000] [1637] [INFO] Using worker: sync
+[2024-05-30 04:28:13 +0000] [1639] [INFO] Booting worker with pid: 1639
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:28:45 +0000] [1637] [INFO] Handling signal: term
+[2024-05-30 04:28:45 +0000] [1639] [INFO] Worker exiting (pid: 1639)
+[2024-05-30 04:28:46 +0000] [1637] [INFO] Shutting down: Master
+[2024-05-30 04:28:48 +0000] [1908] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:28:48 +0000] [1908] [INFO] Listening at: http://0.0.0.0:8000 (1908)
+[2024-05-30 04:28:48 +0000] [1908] [INFO] Using worker: sync
+[2024-05-30 04:28:48 +0000] [1910] [INFO] Booting worker with pid: 1910
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:36:58 +0000] [1908] [INFO] Handling signal: term
+[2024-05-30 04:36:58 +0000] [1910] [INFO] Worker exiting (pid: 1910)
+[2024-05-30 04:36:59 +0000] [1908] [INFO] Shutting down: Master
+[2024-05-30 04:37:00 +0000] [2179] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:37:00 +0000] [2179] [INFO] Listening at: http://0.0.0.0:8000 (2179)
+[2024-05-30 04:37:00 +0000] [2179] [INFO] Using worker: sync
+[2024-05-30 04:37:00 +0000] [2181] [INFO] Booting worker with pid: 2181
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:38:00 +0000] [2179] [INFO] Handling signal: term
+[2024-05-30 04:38:00 +0000] [2181] [INFO] Worker exiting (pid: 2181)
+[2024-05-30 04:38:01 +0000] [2179] [INFO] Shutting down: Master
+[2024-05-30 04:38:02 +0000] [2450] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:38:02 +0000] [2450] [INFO] Listening at: http://0.0.0.0:8000 (2450)
+[2024-05-30 04:38:02 +0000] [2450] [INFO] Using worker: sync
+[2024-05-30 04:38:02 +0000] [2452] [INFO] Booting worker with pid: 2452
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 33, in post
+    after_process = after_processing(result)
+  File "/app/ocr/functions/after_processing.py", line 10, in after_processing
+    middle_result = [re.sub(r"\s+", "", x) for x in before_result]
+  File "/app/ocr/functions/after_processing.py", line 10, in <listcomp>
+    middle_result = [re.sub(r"\s+", "", x) for x in before_result]
+  File "/usr/local/lib/python3.8/re.py", line 210, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+[2024-05-30 04:41:04 +0000] [2450] [INFO] Handling signal: term
+[2024-05-30 04:41:04 +0000] [2452] [INFO] Worker exiting (pid: 2452)
+[2024-05-30 04:41:06 +0000] [2450] [INFO] Shutting down: Master
+[2024-05-30 04:41:07 +0000] [2721] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:41:07 +0000] [2721] [INFO] Listening at: http://0.0.0.0:8000 (2721)
+[2024-05-30 04:41:07 +0000] [2721] [INFO] Using worker: sync
+[2024-05-30 04:41:07 +0000] [2723] [INFO] Booting worker with pid: 2723
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 33, in post
+    after_process = after_processing(result)
+  File "/app/ocr/functions/after_processing.py", line 10, in after_processing
+    middle_result = [re.sub(r"\s+", "", x) for x in before_result]
+  File "/app/ocr/functions/after_processing.py", line 10, in <listcomp>
+    middle_result = [re.sub(r"\s+", "", x) for x in before_result]
+  File "/usr/local/lib/python3.8/re.py", line 210, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+[2024-05-30 04:41:46 +0000] [2721] [INFO] Handling signal: term
+[2024-05-30 04:41:46 +0000] [2723] [INFO] Worker exiting (pid: 2723)
+[2024-05-30 04:41:48 +0000] [2721] [INFO] Shutting down: Master
+[2024-05-30 04:41:49 +0000] [2992] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:41:49 +0000] [2992] [INFO] Listening at: http://0.0.0.0:8000 (2992)
+[2024-05-30 04:41:49 +0000] [2992] [INFO] Using worker: sync
+[2024-05-30 04:41:49 +0000] [2994] [INFO] Booting worker with pid: 2994
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:43:50 +0000] [2992] [INFO] Handling signal: term
+[2024-05-30 04:43:50 +0000] [2994] [INFO] Worker exiting (pid: 2994)
+[2024-05-30 04:43:51 +0000] [2992] [INFO] Shutting down: Master
+[2024-05-30 04:43:52 +0000] [3263] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:43:52 +0000] [3263] [INFO] Listening at: http://0.0.0.0:8000 (3263)
+[2024-05-30 04:43:52 +0000] [3263] [INFO] Using worker: sync
+[2024-05-30 04:43:52 +0000] [3265] [INFO] Booting worker with pid: 3265
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:45:47 +0000] [3263] [INFO] Handling signal: term
+[2024-05-30 04:45:47 +0000] [3265] [INFO] Worker exiting (pid: 3265)
+[2024-05-30 04:45:48 +0000] [3263] [INFO] Shutting down: Master
+[2024-05-30 04:45:50 +0000] [3534] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:45:50 +0000] [3534] [INFO] Listening at: http://0.0.0.0:8000 (3534)
+[2024-05-30 04:45:50 +0000] [3534] [INFO] Using worker: sync
+[2024-05-30 04:45:50 +0000] [3536] [INFO] Booting worker with pid: 3536
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-05-30 04:46:35 +0000] [3534] [INFO] Handling signal: term
+[2024-05-30 04:46:35 +0000] [3536] [INFO] Worker exiting (pid: 3536)
+[2024-05-30 04:46:37 +0000] [3534] [INFO] Shutting down: Master
+[2024-05-30 04:46:38 +0000] [3805] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 04:46:38 +0000] [3805] [INFO] Listening at: http://0.0.0.0:8000 (3805)
+[2024-05-30 04:46:38 +0000] [3805] [INFO] Using worker: sync
+[2024-05-30 04:46:38 +0000] [3807] [INFO] Booting worker with pid: 3807
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:15:40 +0000] [3805] [INFO] Handling signal: term
+[2024-06-02 14:15:40 +0000] [3807] [INFO] Worker exiting (pid: 3807)
+[2024-06-02 14:15:42 +0000] [3805] [INFO] Shutting down: Master
+[2024-06-02 14:15:43 +0000] [4076] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:15:43 +0000] [4076] [INFO] Listening at: http://0.0.0.0:8000 (4076)
+[2024-06-02 14:15:43 +0000] [4076] [INFO] Using worker: sync
+[2024-06-02 14:15:43 +0000] [4078] [INFO] Booting worker with pid: 4078
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:18:03 +0000] [4076] [INFO] Handling signal: term
+[2024-06-02 14:18:03 +0000] [4078] [INFO] Worker exiting (pid: 4078)
+[2024-06-02 14:18:05 +0000] [4076] [INFO] Shutting down: Master
+[2024-06-02 14:18:06 +0000] [4347] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:18:06 +0000] [4347] [INFO] Listening at: http://0.0.0.0:8000 (4347)
+[2024-06-02 14:18:06 +0000] [4347] [INFO] Using worker: sync
+[2024-06-02 14:18:06 +0000] [4349] [INFO] Booting worker with pid: 4349
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:25:44 +0000] [4347] [INFO] Handling signal: term
+[2024-06-02 14:25:44 +0000] [4349] [INFO] Worker exiting (pid: 4349)
+[2024-06-02 14:25:46 +0000] [4347] [INFO] Shutting down: Master
+[2024-06-02 14:25:47 +0000] [4618] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:25:47 +0000] [4618] [INFO] Listening at: http://0.0.0.0:8000 (4618)
+[2024-06-02 14:25:47 +0000] [4618] [INFO] Using worker: sync
+[2024-06-02 14:25:47 +0000] [4620] [INFO] Booting worker with pid: 4620
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:26:25 +0000] [4618] [INFO] Handling signal: term
+[2024-06-02 14:26:25 +0000] [4620] [INFO] Worker exiting (pid: 4620)
+[2024-06-02 14:26:26 +0000] [4618] [INFO] Shutting down: Master
+[2024-06-02 14:26:27 +0000] [4889] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:26:27 +0000] [4889] [INFO] Listening at: http://0.0.0.0:8000 (4889)
+[2024-06-02 14:26:27 +0000] [4889] [INFO] Using worker: sync
+[2024-06-02 14:26:27 +0000] [4891] [INFO] Booting worker with pid: 4891
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:27:44 +0000] [4889] [INFO] Handling signal: term
+[2024-06-02 14:27:44 +0000] [4891] [INFO] Worker exiting (pid: 4891)
+[2024-06-02 14:27:45 +0000] [4889] [INFO] Shutting down: Master
+[2024-06-02 14:27:47 +0000] [5160] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:27:47 +0000] [5160] [INFO] Listening at: http://0.0.0.0:8000 (5160)
+[2024-06-02 14:27:47 +0000] [5160] [INFO] Using worker: sync
+[2024-06-02 14:27:47 +0000] [5162] [INFO] Booting worker with pid: 5162
+[2024-06-02 14:27:47 +0000] [5160] [INFO] Handling signal: term
+[2024-06-02 14:27:47 +0000] [5162] [INFO] Worker exiting (pid: 5162)
+[2024-06-02 14:27:47 +0000] [5160] [INFO] Shutting down: Master
+[2024-06-02 14:27:48 +0000] [5163] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:27:48 +0000] [5163] [INFO] Listening at: http://0.0.0.0:8000 (5163)
+[2024-06-02 14:27:48 +0000] [5163] [INFO] Using worker: sync
+[2024-06-02 14:27:48 +0000] [5165] [INFO] Booting worker with pid: 5165
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:31:43 +0000] [5163] [INFO] Handling signal: term
+[2024-06-02 14:31:43 +0000] [5165] [INFO] Worker exiting (pid: 5165)
+[2024-06-02 14:31:45 +0000] [5163] [INFO] Shutting down: Master
+[2024-06-02 14:31:46 +0000] [5434] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:31:46 +0000] [5434] [INFO] Listening at: http://0.0.0.0:8000 (5434)
+[2024-06-02 14:31:46 +0000] [5434] [INFO] Using worker: sync
+[2024-06-02 14:31:46 +0000] [5436] [INFO] Booting worker with pid: 5436
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:32:13 +0000] [5434] [INFO] Handling signal: term
+[2024-06-02 14:32:13 +0000] [5436] [INFO] Worker exiting (pid: 5436)
+[2024-06-02 14:32:14 +0000] [5434] [INFO] Shutting down: Master
+[2024-06-02 14:32:16 +0000] [5705] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:32:16 +0000] [5705] [INFO] Listening at: http://0.0.0.0:8000 (5705)
+[2024-06-02 14:32:16 +0000] [5705] [INFO] Using worker: sync
+[2024-06-02 14:32:16 +0000] [5707] [INFO] Booting worker with pid: 5707
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:34:42 +0000] [5705] [INFO] Handling signal: term
+[2024-06-02 14:34:42 +0000] [5707] [INFO] Worker exiting (pid: 5707)
+[2024-06-02 14:34:44 +0000] [5705] [INFO] Shutting down: Master
+[2024-06-02 14:34:45 +0000] [5976] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:34:45 +0000] [5976] [INFO] Listening at: http://0.0.0.0:8000 (5976)
+[2024-06-02 14:34:45 +0000] [5976] [INFO] Using worker: sync
+[2024-06-02 14:34:45 +0000] [5978] [INFO] Booting worker with pid: 5978
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:35:21 +0000] [5976] [INFO] Handling signal: term
+[2024-06-02 14:35:21 +0000] [5978] [INFO] Worker exiting (pid: 5978)
+[2024-06-02 14:35:23 +0000] [5976] [INFO] Shutting down: Master
+[2024-06-02 14:35:24 +0000] [6247] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:35:24 +0000] [6247] [INFO] Listening at: http://0.0.0.0:8000 (6247)
+[2024-06-02 14:35:24 +0000] [6247] [INFO] Using worker: sync
+[2024-06-02 14:35:24 +0000] [6249] [INFO] Booting worker with pid: 6249
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:35:45 +0000] [6247] [INFO] Handling signal: term
+[2024-06-02 14:35:45 +0000] [6249] [INFO] Worker exiting (pid: 6249)
+[2024-06-02 14:35:46 +0000] [6247] [INFO] Shutting down: Master
+[2024-06-02 14:35:48 +0000] [6518] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:35:48 +0000] [6518] [INFO] Listening at: http://0.0.0.0:8000 (6518)
+[2024-06-02 14:35:48 +0000] [6518] [INFO] Using worker: sync
+[2024-06-02 14:35:48 +0000] [6520] [INFO] Booting worker with pid: 6520
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 14:38:09 +0000] [6518] [INFO] Handling signal: term
+[2024-06-02 14:38:09 +0000] [6520] [INFO] Worker exiting (pid: 6520)
+[2024-06-02 14:38:10 +0000] [6518] [INFO] Shutting down: Master
+[2024-06-02 14:38:12 +0000] [6789] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 14:38:12 +0000] [6789] [INFO] Listening at: http://0.0.0.0:8000 (6789)
+[2024-06-02 14:38:12 +0000] [6789] [INFO] Using worker: sync
+[2024-06-02 14:38:12 +0000] [6791] [INFO] Booting worker with pid: 6791
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 15:17:16 +0000] [6789] [INFO] Handling signal: term
+[2024-06-02 15:17:16 +0000] [6791] [INFO] Worker exiting (pid: 6791)
+[2024-06-02 15:17:17 +0000] [6789] [INFO] Shutting down: Master
+[2024-06-02 15:17:18 +0000] [7060] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 15:17:18 +0000] [7060] [INFO] Listening at: http://0.0.0.0:8000 (7060)
+[2024-06-02 15:17:18 +0000] [7060] [INFO] Using worker: sync
+[2024-06-02 15:17:18 +0000] [7062] [INFO] Booting worker with pid: 7062
+[2024-06-02 15:17:38 +0000] [7062] [ERROR] Error handling request /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+[2024-06-02 15:19:44 +0000] [7062] [ERROR] Error handling request /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+[2024-06-02 15:20:10 +0000] [7062] [ERROR] Error handling request /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+[2024-06-02 15:21:51 +0000] [7060] [INFO] Handling signal: term
+[2024-06-02 15:21:51 +0000] [7062] [INFO] Worker exiting (pid: 7062)
+[2024-06-02 15:21:53 +0000] [7060] [INFO] Shutting down: Master
+[2024-06-02 15:21:54 +0000] [7189] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 15:21:54 +0000] [7189] [INFO] Listening at: http://0.0.0.0:8000 (7189)
+[2024-06-02 15:21:54 +0000] [7189] [INFO] Using worker: sync
+[2024-06-02 15:21:54 +0000] [7191] [INFO] Booting worker with pid: 7191
+[2024-06-02 15:22:08 +0000] [7191] [ERROR] Error handling request /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/usr/local/lib/python3.8/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 57, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 140, in response_for_exception
+    response = handle_uncaught_exception(
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 181, in handle_uncaught_exception
+    return debug.technical_500_response(request, *exc_info)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 67, in technical_500_response
+    html = reporter.get_traceback_html()
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 410, in get_traceback_html
+    c = Context(self.get_traceback_data(), use_l10n=False)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 393, in get_traceback_data
+    c["raising_view_name"] = get_caller(self.request)
+  File "/usr/local/lib/python3.8/site-packages/django/views/debug.py", line 100, in get_caller
+    resolver_match = resolve(request.path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.8/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.8/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/fossil/urls.py", line 22, in <module>
+    path('ocr/', include('ocr.urls')),
+  File "/usr/local/lib/python3.8/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/local/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/app/ocr/urls.py", line 2, in <module>
+    from ocr.views import *
+  File "/app/ocr/views.py", line 12, in <module>
+    from .functions.search_postsql import search_postgresql
+  File "/app/ocr/functions/search_postsql.py", line 2, in <module>
+    from dto.food import Food
+ModuleNotFoundError: No module named 'dto'
+[2024-06-02 15:23:14 +0000] [7189] [INFO] Handling signal: term
+[2024-06-02 15:23:14 +0000] [7191] [INFO] Worker exiting (pid: 7191)
+[2024-06-02 15:23:16 +0000] [7189] [INFO] Shutting down: Master
+[2024-06-02 15:23:17 +0000] [7318] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 15:23:17 +0000] [7318] [INFO] Listening at: http://0.0.0.0:8000 (7318)
+[2024-06-02 15:23:17 +0000] [7318] [INFO] Using worker: sync
+[2024-06-02 15:23:17 +0000] [7320] [INFO] Booting worker with pid: 7320
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[2024-06-02 15:31:12 +0000] [7318] [INFO] Handling signal: term
+[2024-06-02 15:31:12 +0000] [7320] [INFO] Worker exiting (pid: 7320)
+[2024-06-02 15:31:14 +0000] [7318] [INFO] Shutting down: Master
+[2024-06-02 15:31:15 +0000] [7589] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 15:31:15 +0000] [7589] [INFO] Listening at: http://0.0.0.0:8000 (7589)
+[2024-06-02 15:31:15 +0000] [7589] [INFO] Using worker: sync
+[2024-06-02 15:31:15 +0000] [7591] [INFO] Booting worker with pid: 7591
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 16:14:45 +0000] [7589] [INFO] Handling signal: term
+[2024-06-02 16:14:45 +0000] [7591] [INFO] Worker exiting (pid: 7591)
+[2024-06-02 16:14:47 +0000] [7589] [INFO] Shutting down: Master
+[2024-06-02 16:14:48 +0000] [7860] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:14:48 +0000] [7860] [INFO] Listening at: http://0.0.0.0:8000 (7860)
+[2024-06-02 16:14:48 +0000] [7860] [INFO] Using worker: sync
+[2024-06-02 16:14:48 +0000] [7862] [INFO] Booting worker with pid: 7862
+[2024-06-02 16:14:56 +0000] [7860] [INFO] Handling signal: term
+[2024-06-02 16:14:56 +0000] [7862] [INFO] Worker exiting (pid: 7862)
+[2024-06-02 16:14:56 +0000] [7860] [INFO] Shutting down: Master
+[2024-06-02 16:14:57 +0000] [7863] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:14:57 +0000] [7863] [INFO] Listening at: http://0.0.0.0:8000 (7863)
+[2024-06-02 16:14:57 +0000] [7863] [INFO] Using worker: sync
+[2024-06-02 16:14:57 +0000] [7865] [INFO] Booting worker with pid: 7865
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+

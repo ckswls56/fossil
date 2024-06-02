@@ -22,9 +22,6 @@ def after_processing(before_result: list):
     ## 숫자만 있다면 삭제
     middle_result = [x for x in middle_result if not re.match(r"^[0-9]+$", x)]
 
-    # result(String List)에서 String의 길이가 2글자 이하는 삭제
-    middle_result = [x for x in middle_result if len(x) > 2]
-
     # last_char list에 있는 2글자로 끝나는 단어만 추출
     #after_result = [x for x in middle_result if x.endswith(tuple(LAST_DOSE_CHAR))]
     
