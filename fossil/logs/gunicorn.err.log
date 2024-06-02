@@ -6009,3 +6009,503 @@ could not connect to server: Connection refused
 	Is the server running on host "localhost" (127.0.0.1) and accepting
 	TCP/IP connections on port 5432?
 
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[2024-06-02 16:41:15 +0000] [7863] [INFO] Handling signal: term
+[2024-06-02 16:41:15 +0000] [7865] [INFO] Worker exiting (pid: 7865)
+[2024-06-02 16:41:17 +0000] [7863] [INFO] Shutting down: Master
+[2024-06-02 16:41:18 +0000] [8134] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:41:18 +0000] [8134] [INFO] Listening at: http://0.0.0.0:8000 (8134)
+[2024-06-02 16:41:18 +0000] [8134] [INFO] Using worker: sync
+[2024-06-02 16:41:18 +0000] [8136] [INFO] Booting worker with pid: 8136
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[2024-06-02 16:42:48 +0000] [8134] [INFO] Handling signal: term
+[2024-06-02 16:42:48 +0000] [8136] [INFO] Worker exiting (pid: 8136)
+[2024-06-02 16:42:49 +0000] [8134] [INFO] Shutting down: Master
+[2024-06-02 16:42:51 +0000] [8] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:42:51 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2024-06-02 16:42:51 +0000] [8] [INFO] Using worker: sync
+[2024-06-02 16:42:51 +0000] [10] [INFO] Booting worker with pid: 10
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[2024-06-02 16:49:19 +0000] [8] [INFO] Handling signal: term
+[2024-06-02 16:49:19 +0000] [10] [INFO] Worker exiting (pid: 10)
+[2024-06-02 16:49:20 +0000] [8] [INFO] Shutting down: Master
+[2024-06-02 16:49:22 +0000] [279] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:49:22 +0000] [279] [INFO] Listening at: http://0.0.0.0:8000 (279)
+[2024-06-02 16:49:22 +0000] [279] [INFO] Using worker: sync
+[2024-06-02 16:49:22 +0000] [281] [INFO] Booting worker with pid: 281
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='db',
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  database "public" does not exist
+
+[2024-06-02 16:50:50 +0000] [279] [INFO] Handling signal: term
+[2024-06-02 16:50:50 +0000] [281] [INFO] Worker exiting (pid: 281)
+[2024-06-02 16:50:52 +0000] [279] [INFO] Shutting down: Master
+[2024-06-02 16:50:53 +0000] [550] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:50:53 +0000] [550] [INFO] Listening at: http://0.0.0.0:8000 (550)
+[2024-06-02 16:50:53 +0000] [550] [INFO] Using worker: sync
+[2024-06-02 16:50:53 +0000] [552] [INFO] Booting worker with pid: 552
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 49, in search_postgresql
+    cursor.execute(sql, (after_result_tuple, after_result_tuple, after_result_tuple, after_result_tuple))
+IndexError: tuple index out of range
+[2024-06-02 16:52:26 +0000] [550] [INFO] Handling signal: term
+[2024-06-02 16:52:26 +0000] [552] [INFO] Worker exiting (pid: 552)
+[2024-06-02 16:52:28 +0000] [550] [INFO] Shutting down: Master
+[2024-06-02 16:52:29 +0000] [821] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:52:29 +0000] [821] [INFO] Listening at: http://0.0.0.0:8000 (821)
+[2024-06-02 16:52:29 +0000] [821] [INFO] Using worker: sync
+[2024-06-02 16:52:29 +0000] [823] [INFO] Booting worker with pid: 823
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 49, in search_postgresql
+    cursor.execute(sql, (after_result_tuple, after_result_tuple, after_result_tuple, after_result_tuple,after_result_tuple,after_result_tuple,after_result_tuple))
+IndexError: tuple index out of range
+[2024-06-02 16:54:21 +0000] [821] [INFO] Handling signal: term
+[2024-06-02 16:54:21 +0000] [823] [INFO] Worker exiting (pid: 823)
+[2024-06-02 16:54:22 +0000] [821] [INFO] Shutting down: Master
+[2024-06-02 16:54:23 +0000] [1092] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:54:23 +0000] [1092] [INFO] Listening at: http://0.0.0.0:8000 (1092)
+[2024-06-02 16:54:23 +0000] [1092] [INFO] Using worker: sync
+[2024-06-02 16:54:23 +0000] [1094] [INFO] Booting worker with pid: 1094
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 7, in search_postgresql
+    conn = psycopg2.connect(host='localhost',  # 호스트 수정
+  File "/usr/local/lib/python3.8/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+
+[2024-06-02 16:55:03 +0000] [1092] [INFO] Handling signal: term
+[2024-06-02 16:55:03 +0000] [1094] [INFO] Worker exiting (pid: 1094)
+[2024-06-02 16:55:05 +0000] [1092] [INFO] Shutting down: Master
+[2024-06-02 16:55:06 +0000] [1363] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:55:06 +0000] [1363] [INFO] Listening at: http://0.0.0.0:8000 (1363)
+[2024-06-02 16:55:06 +0000] [1363] [INFO] Using worker: sync
+[2024-06-02 16:55:06 +0000] [1365] [INFO] Booting worker with pid: 1365
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    mysql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 49, in search_postgresql
+    cursor.execute(sql, (after_result_tuple, after_result_tuple, after_result_tuple, after_result_tuple,after_result_tuple,after_result_tuple,after_result_tuple))
+IndexError: tuple index out of range
+[2024-06-02 16:57:16 +0000] [1363] [INFO] Handling signal: term
+[2024-06-02 16:57:16 +0000] [1365] [INFO] Worker exiting (pid: 1365)
+[2024-06-02 16:57:18 +0000] [1363] [INFO] Shutting down: Master
+[2024-06-02 16:57:19 +0000] [1634] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:57:19 +0000] [1634] [INFO] Listening at: http://0.0.0.0:8000 (1634)
+[2024-06-02 16:57:19 +0000] [1634] [INFO] Using worker: sync
+[2024-06-02 16:57:19 +0000] [1636] [INFO] Booting worker with pid: 1636
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 16:58:20 +0000] [1634] [INFO] Handling signal: term
+[2024-06-02 16:58:20 +0000] [1636] [INFO] Worker exiting (pid: 1636)
+[2024-06-02 16:58:22 +0000] [1634] [INFO] Shutting down: Master
+[2024-06-02 16:58:23 +0000] [1905] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 16:58:23 +0000] [1905] [INFO] Listening at: http://0.0.0.0:8000 (1905)
+[2024-06-02 16:58:23 +0000] [1905] [INFO] Using worker: sync
+[2024-06-02 16:58:23 +0000] [1907] [INFO] Booting worker with pid: 1907
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 17:01:13 +0000] [1905] [INFO] Handling signal: term
+[2024-06-02 17:01:13 +0000] [1907] [INFO] Worker exiting (pid: 1907)
+[2024-06-02 17:01:14 +0000] [1905] [INFO] Shutting down: Master
+[2024-06-02 17:01:15 +0000] [2176] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:01:15 +0000] [2176] [INFO] Listening at: http://0.0.0.0:8000 (2176)
+[2024-06-02 17:01:15 +0000] [2176] [INFO] Using worker: sync
+[2024-06-02 17:01:15 +0000] [2178] [INFO] Booting worker with pid: 2178
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 17:02:37 +0000] [2176] [INFO] Handling signal: term
+[2024-06-02 17:02:37 +0000] [2178] [INFO] Worker exiting (pid: 2178)
+[2024-06-02 17:02:39 +0000] [2176] [INFO] Shutting down: Master
+[2024-06-02 17:02:40 +0000] [2447] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:02:40 +0000] [2447] [INFO] Listening at: http://0.0.0.0:8000 (2447)
+[2024-06-02 17:02:40 +0000] [2447] [INFO] Using worker: sync
+[2024-06-02 17:02:40 +0000] [2449] [INFO] Booting worker with pid: 2449
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/local/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Food is not JSON serializable
+[2024-06-02 17:06:51 +0000] [2447] [INFO] Handling signal: term
+[2024-06-02 17:06:51 +0000] [2449] [INFO] Worker exiting (pid: 2449)
+[2024-06-02 17:06:52 +0000] [2447] [INFO] Shutting down: Master
+[2024-06-02 17:06:53 +0000] [2718] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:06:53 +0000] [2718] [INFO] Listening at: http://0.0.0.0:8000 (2718)
+[2024-06-02 17:06:53 +0000] [2718] [INFO] Using worker: sync
+[2024-06-02 17:06:53 +0000] [2720] [INFO] Booting worker with pid: 2720
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/local/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Food is not JSON serializable
+[2024-06-02 17:09:22 +0000] [2718] [INFO] Handling signal: term
+[2024-06-02 17:09:22 +0000] [2720] [INFO] Worker exiting (pid: 2720)
+[2024-06-02 17:09:23 +0000] [2718] [INFO] Shutting down: Master
+[2024-06-02 17:09:24 +0000] [2989] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:09:24 +0000] [2989] [INFO] Listening at: http://0.0.0.0:8000 (2989)
+[2024-06-02 17:09:24 +0000] [2989] [INFO] Using worker: sync
+[2024-06-02 17:09:24 +0000] [2991] [INFO] Booting worker with pid: 2991
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/usr/local/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/renderers.py", line 99, in render
+    ret = json.dumps(
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/usr/local/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/local/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Food is not JSON serializable
+[2024-06-02 17:11:00 +0000] [2989] [INFO] Handling signal: term
+[2024-06-02 17:11:00 +0000] [2991] [INFO] Worker exiting (pid: 2991)
+[2024-06-02 17:11:02 +0000] [2989] [INFO] Shutting down: Master
+[2024-06-02 17:11:03 +0000] [3260] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:11:03 +0000] [3260] [INFO] Listening at: http://0.0.0.0:8000 (3260)
+[2024-06-02 17:11:03 +0000] [3260] [INFO] Using worker: sync
+[2024-06-02 17:11:03 +0000] [3262] [INFO] Booting worker with pid: 3262
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-02 17:12:59 +0000] [3260] [INFO] Handling signal: term
+[2024-06-02 17:12:59 +0000] [3262] [INFO] Worker exiting (pid: 3262)
+[2024-06-02 17:13:00 +0000] [3260] [INFO] Shutting down: Master
+[2024-06-02 17:13:00 +0000] [3531] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:13:00 +0000] [3531] [INFO] Listening at: http://0.0.0.0:8000 (3531)
+[2024-06-02 17:13:00 +0000] [3531] [INFO] Using worker: sync
+[2024-06-02 17:13:00 +0000] [3533] [INFO] Booting worker with pid: 3533
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    postgresql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 79, in search_postgresql
+    food_json = json.dumps(food.to_dict)
+  File "/usr/local/lib/python3.8/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type method is not JSON serializable
+[2024-06-02 17:14:22 +0000] [3531] [INFO] Handling signal: term
+[2024-06-02 17:14:22 +0000] [3533] [INFO] Worker exiting (pid: 3533)
+[2024-06-02 17:14:23 +0000] [3531] [INFO] Shutting down: Master
+[2024-06-02 17:14:24 +0000] [3802] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:14:24 +0000] [3802] [INFO] Listening at: http://0.0.0.0:8000 (3802)
+[2024-06-02 17:14:24 +0000] [3802] [INFO] Using worker: sync
+[2024-06-02 17:14:24 +0000] [3804] [INFO] Booting worker with pid: 3804
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Internal Server Error: /ocr/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/app/ocr/views.py", line 35, in post
+    postgresql_result = search_postgresql(after_process)
+  File "/app/ocr/functions/search_postsql.py", line 79, in search_postgresql
+    food_json = json.dumps(food.__dict__)
+  File "/usr/local/lib/python3.8/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type method is not JSON serializable
+[2024-06-02 17:15:32 +0000] [3802] [INFO] Handling signal: term
+[2024-06-02 17:15:32 +0000] [3804] [INFO] Worker exiting (pid: 3804)
+[2024-06-02 17:15:33 +0000] [3802] [INFO] Shutting down: Master
+[2024-06-02 17:15:35 +0000] [4073] [INFO] Starting gunicorn 22.0.0
+[2024-06-02 17:15:35 +0000] [4073] [INFO] Listening at: http://0.0.0.0:8000 (4073)
+[2024-06-02 17:15:35 +0000] [4073] [INFO] Using worker: sync
+[2024-06-02 17:15:35 +0000] [4075] [INFO] Booting worker with pid: 4075
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.

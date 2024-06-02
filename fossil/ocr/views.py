@@ -32,5 +32,5 @@ class OCRView(APIView):
         # OCR 수행
         result = image_to_text(file_path, verbose=False)  # 디버깅을 위해 verbose=True로 설정할 수 있습니다.
         after_process = after_processing(result)
-        mysql_result = search_postgresql(after_process)
-        return Response({"result": result, "after": after_process}, status=status.HTTP_200_OK)
+        postgresql_result = search_postgresql(after_process)
+        return Response({"result": result, "after": after_process, "postgresql": postgresql_result}, status=status.HTTP_200_OK)
