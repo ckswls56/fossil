@@ -118,25 +118,25 @@ def image_to_text(path: str, verbose: bool = False):
         plt.show()
         
         
-    #5 Histogram Normalize (히스토그램 정규화)
+    # #5 Histogram Normalize (히스토그램 정규화) (사용X)
     
-    img_norm2 = cv2.normalize(rotated_image, None, 0, 255, cv2.NORM_MINMAX) #이거 하나로 바로 정규화
+    # img_norm2 = cv2.normalize(rotated_image, None, 0, 255, cv2.NORM_MINMAX) #이거 하나로 바로 정규화
     
-    # 위에서 히스토그램 과정 그래프 생성하는거 이것도 굳이 할 필요 없음    
-    if verbose:
-        hist = cv2.calcHist([rotated_image], [0], None, [256], [0, 255])
-        hist_norm2 = cv2.calcHist([rotated_image], [0], None, [256], [0, 255])
+    # # 위에서 히스토그램 과정 그래프 생성하는거 이것도 굳이 할 필요 없음    
+    # if verbose:
+    #     hist = cv2.calcHist([rotated_image], [0], None, [256], [0, 255])
+    #     hist_norm2 = cv2.calcHist([rotated_image], [0], None, [256], [0, 255])
     
-    # 이미지 출력
-    if verbose:
-        show_image('Before', rotated_image)
-        show_image('cv2.normalize()', img_norm2)
-        # hists = {'Before' : hist, 'cv2.normalize()':hist_norm2}
-        # for i, (k, v) in enumerate(hists.items()):
-        #     plt.subplot(1,3,i+1)
-        #     plt.title(k)
-        #     plt.plot(v)
-        # plt.show()
+    # # 이미지 출력
+    # if verbose:
+    #     show_image('Before', rotated_image)
+    #     show_image('cv2.normalize()', img_norm2)
+    #     # hists = {'Before' : hist, 'cv2.normalize()':hist_norm2}
+    #     # for i, (k, v) in enumerate(hists.items()):
+    #     #     plt.subplot(1,3,i+1)
+    #     #     plt.title(k)
+    #     #     plt.plot(v)
+    #     # plt.show()
 
         
     reader = easyocr.Reader(['ko','en'], gpu=True)

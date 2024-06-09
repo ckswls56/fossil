@@ -6509,3 +6509,55 @@ TypeError: Object of type method is not JSON serializable
 Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
 Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
 Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-06-09 07:46:43 +0000] [4073] [INFO] Handling signal: term
+[2024-06-09 07:46:43 +0000] [4075] [INFO] Worker exiting (pid: 4075)
+[2024-06-09 07:46:45 +0000] [4073] [INFO] Shutting down: Master
+[2024-06-09 07:46:46 +0000] [4344] [INFO] Starting gunicorn 22.0.0
+[2024-06-09 07:46:46 +0000] [4344] [INFO] Listening at: http://0.0.0.0:8000 (4344)
+[2024-06-09 07:46:46 +0000] [4344] [INFO] Using worker: sync
+[2024-06-09 07:46:46 +0000] [4346] [INFO] Booting worker with pid: 4346
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
